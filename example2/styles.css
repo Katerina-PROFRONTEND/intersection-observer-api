@@ -1,0 +1,14 @@
+.scroll-container {
+    height: 300px;
+    overflow: auto;
+    border: 2px solid black;
+}
+
+.target {
+    height: 100px;
+    background-color: lightcoral;
+}
+
+.spacer {
+    height: 150vh;
+}
